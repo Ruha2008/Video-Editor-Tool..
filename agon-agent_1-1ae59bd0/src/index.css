@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap');
+@import "tailwindcss";
+code, pre, .font-mono { font-family: 'JetBrains Mono', ui-monospace, monospace; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #2b3040; border-radius: 99px; }
+input[type='range'] { cursor: pointer; }
